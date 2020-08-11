@@ -1,5 +1,5 @@
-# jPass
-jPass is a random password generator using Python's random.SystemRandom. SystemRandom is intended for cryptographic use and generates based on OS resources. 
+# jGen
+jGen is a random password generator using Python's random.SystemRandom. SystemRandom is intended for cryptographic use and generates based on OS resources. 
 
 ## Usage
 
